@@ -1,0 +1,10 @@
+{
+  "name": "Wakeel AI",
+  "description": "Legal awareness assistant for Pakistan providing guidance in Roman Urdu and English on Pakistani laws, police procedures, and civil matters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "AI-powered legal guidance",
+    "Pakistani law awareness",
+    "Roman Urdu & English support"
+  ]
+}
